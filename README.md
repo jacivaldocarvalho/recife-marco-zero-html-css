@@ -60,13 +60,15 @@ Este projeto foi desenvolvido apenas com **HTML** e **CSS**, não sendo necessá
 **Recomendações**:
 - Utilize um editor de código como **Visual Studio Code**, **Sublime Text** ou **Atom** para explorar e modificar o código do projeto.
 
-## Licença
-Este projeto está licenciado sob a **MIT License**. 
-
 ## Contato
-Fique à vontade para entrar em contato ou acompanhar as atualizações do projeto:
 
 - LinkedIn 👔: [https://www.linkedin.com/in/jacivaldo-carvalho](https://www.linkedin.com/in/jacivaldo-carvalho)
 - E-mail 📧: jacivaldo.carvalho@gmail.com
 - GitHub 🐙: [https://github.com/jacivaldocarvalho](https://github.com/jacivaldocarvalho)
 - Medium ✍️: [https://medium.com/@jacivaldocarvalho](https://medium.com/@jacivaldocarvalho)
+
+Sempre aberto a novas conexões e oportunidades de aprendizado!
+
+## Licença
+Este projeto está licenciado sob a **MIT License**. 
+
